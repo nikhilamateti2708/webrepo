@@ -6,10 +6,8 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body style="background-color:cyan">
 	<h2>Welcome to My Website</h2>
-	<%
-		System.out.println("hello");
-	%>
+	
 </body>
 </html>
